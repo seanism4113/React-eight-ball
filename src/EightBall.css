@@ -1,0 +1,12 @@
+.EightBall {
+	height: 300px;
+	width: 300px;
+	background-color: black;
+	color: white;
+	border: none;
+	border-radius: 50%;
+	font-size: 21px;
+	border-color: none;
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	font-weight: bolder;
+}
